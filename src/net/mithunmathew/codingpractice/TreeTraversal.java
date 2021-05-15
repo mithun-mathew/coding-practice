@@ -1,3 +1,4 @@
+package net.mithunmathew.codingpractice;
 class Node{
 	int val;
 	Node left, right;
